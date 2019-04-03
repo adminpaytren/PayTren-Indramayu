@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Perkenalkan Saya **TN0111923** a.n **Tri Afrizal Hilmi** mentor PayTren.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Untuk Anda yang ingin mengambil peluang di bisnis PayTren dan ingin dimentori, Saya bersedia dan sekaligus menjadi partner bisnis solid Anda. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Hubungi Saya via [Whatsapp](https://wa.me/6282320067466)
+
+### Address
+Silaturahim di Jl. Gg. Murba Blok Sumur Tumpang Sari, Dusun Patrol Desa Patrol Lor, Kecamatan Patrol Kabupaten Indramayu, 45258.
