@@ -8,7 +8,7 @@ Perkenalkan Saya **TN0111923** a.n **Tri Afrizal Hilmi** mentor PayTren.
 
 ### More Information
 
-Untuk Anda yang ingin mengambil peluang di bisnis PayTren dan ingin dimentori, Saya bersedia dan sekaligus menjadi partner bisnis solid Anda. 
+Untuk Anda yang ingin mengambil peluang di bisnis PayTren dan ingin dimentori, Saya bersedia dan sekaligus menjadi mitra bisnis solid Anda. 
 
 ### Contact me
 
