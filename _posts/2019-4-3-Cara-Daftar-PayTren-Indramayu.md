@@ -27,8 +27,11 @@ Program & teknologi Paytren terus dikembangkan dan saat ini telah hadir PAYTREN 
 
 Visi PAYTREN berjamaah membeli ulang Indonesia. Menuju 1 Miliyar Pengguna. InsyaAllah PAYTREN akan menjadi TREN gaya hidup Indonesia bahkan Dunia yg semakin canggih, efektif dan efisien.
 
-<center>Cara Daftar PayTren</center>
+<center>Berikut Cara Daftar PayTren:</center>
 
 | Langkah #1 Registrasi User eMoney |
 | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/39126631-798faf4a-4735-11e8-993d-6f314d4f2b55.png"/> |
+| 1. Download & Install Aplikasi PayTren 5.17 di Playstore atau IOS
+2. Buka Aplikasi PayTren 5.17, Masukan Nomor HP lalu klik Lanjutkan
+3. Isi Data Diri (Nama Lengkap), Tanggal Lahir dan Alamat Email Lalu Klik Lanjutkan
+4. Masukan 4 digit kode OTP yang dikirim ke SMS, lalu buat PIN Transaksi |
