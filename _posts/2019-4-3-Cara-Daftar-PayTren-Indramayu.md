@@ -5,7 +5,7 @@ title: Cara Daftar PayTren di Indramayu
 
 Selamat datang di blog support Mentor PayTren, bagi Anda yang ingin tau apa itu PayTren dan bagaimana cara daftar PayTren yang benar dengan mentor yang tepat, maka Anda perlu baca sampai tuntas informasi di halaman ini.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![paytren-emoney](https://adminpaytren.github.io/images/bank-paytren.jpg)
 
 **Mengapa harus memilih mentor yang tepat?**
 
@@ -58,3 +58,12 @@ Visi PAYTREN berjamaah membeli ulang Indonesia. Menuju 1 Miliyar Pengguna. Insya
 5. Klik Tombol Beli Lisensi Pebisnis
 6. Pilih Mentor Bisnis dengan Mengetik ID Mitra **TN0111923** a.n. **Tri Afrizal Hilmi**. Klik Lanjutkan
 7. Masukan PIN lalu klik Bayar
+
+Demikian penjelasan bagaimana cara daftar PayTren di Indramayu, dengan memilih mentor yang terdekat di kota dimana Anda tinggal maka akan memudahkan Anda untuk mendapat bimbingan secara offline karena lebih mudah untuk mengadakan pertemuan.
+
+Terakhir, bagi Anda yang ingin mendapatkan info update seputar PayTren, silahkan gabung di channel Telegram dengan klik tombol dibawah ini ya, InsyaAllah bermanfaat.
+
+[![Telegram-PayTren](https://adminpaytren.github.io/images/telegram.png)](https://t.me/markit_paytren517)
+
+***Salam Sukses Berjamaah***
+
